@@ -1,16 +1,27 @@
-### Hi there 👋
+<a href="https://www.notion.so/kucarrot/About-me-369838db74794ef1bf596a34ffb09f73">
+ <img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/>
+ </a> <a href="https://github.com/KUcarrot">
+ <img src="https://img.shields.io/badge/jikksun@korea.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
+</br>
+</br>
+</br>
+</br>
+👍 Hi everyone! I'm a data scientist.🚀</br>
+I am interested in imbalanced data and computer vision.💌</br>
+</br>
+</br>
+</br>
+</br>
 
-<!--
-**KUcarrot/KUcarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠Skills
+##### Advanced Languages & Framework
 
-Here are some ideas to get you started:
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>  <img src="https://img.shields.io/badge/SAS-0089CF?style=flat-square&logo=sega&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+ 
+ ##### Intermediate Languages & Framework
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/SPSS-1AB394?style=flat-square&logo=spss&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+                  
