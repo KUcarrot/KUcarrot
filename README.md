@@ -1,17 +1,19 @@
+### Donggeun Kim
+![](https://komarev.com/ghpvc/?username=KUcarrot&color=dc143c)
 <a href="https://www.notion.so/kucarrot/About-me-369838db74794ef1bf596a34ffb09f73">
- <img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/>
- </a> <a href="https://github.com/KUcarrot">
- <img src="https://img.shields.io/badge/jikksun@korea.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
+<img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/> </a> <a href="https://github.com/KUcarrot">
+<img src="https://img.shields.io/badge/jikksun@korea.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
 </br>
 </br>
 </br>
 </br>
-# 👍 Hi everyone! </br>
+#### 👍 Hi everyone! </br>
 I'm a data scientist.🚀</br>
-I am interested in **imbalanced data** and **computer vision.** 💌</br></br>
+I am interested in **imbalanced data** and **computer vision.** 💌</br>
+</br>
+</br>
 I am currently an undergraduate student in CDS Lab</br>
-[Google](https://www.google.com)</br>
-[Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee) "CDS Lab")
+[Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee)
 </br>
 </br>
 </br>
