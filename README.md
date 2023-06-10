@@ -1,4 +1,4 @@
-### Donggeun Kim
+## Donggeun Kim
 ![](https://komarev.com/ghpvc/?username=KUcarrot&color=dc143c)
 <a href="https://www.notion.so/kucarrot/About-me-369838db74794ef1bf596a34ffb09f73">
 <img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/> </a> <a href="https://github.com/KUcarrot">
@@ -7,7 +7,7 @@
 </br>
 </br>
 </br>
-#### 👍 Hi everyone! </br>
+### 👍 Hi everyone! </br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br>
 I am currently an **undergraduate student** in CDS Lab</br>
 [Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee)
