@@ -4,14 +4,10 @@
 <img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/> </a> <a href="https://github.com/KUcarrot">
 <img src="https://img.shields.io/badge/jikksun@korea.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
 </br>
-</br>
-</br>
-</br>
 ### 👍 Hi everyone! </br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br>
 I am currently an **undergraduate student** in CDS Lab</br>
 [Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee)
-</br>
 </br>
 </br>
 </br>
