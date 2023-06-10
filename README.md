@@ -9,8 +9,6 @@
 </br>
 #### 👍 Hi everyone! </br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br>
-</br>
-</br>
 I am currently an undergraduate student in CDS Lab</br>
 [Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee)
 </br>
