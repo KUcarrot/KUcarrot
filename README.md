@@ -6,9 +6,12 @@
 </br>
 </br>
 </br>
-👍 Hi everyone! I'm a data scientist.🚀</br>
-I am interested in **imbalanced data** and **computer vision.** 💌</br>
-https://sites.google.com/korea.ac.kr/jaiwoolee</br>
+# 👍 Hi everyone! 
+I'm a data scientist.🚀</br>
+I am interested in **imbalanced data** and **computer vision.** 💌</br></br>
+I am currently an undergraduate student in CDS Lab
+[Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee) "CDS Lab")
+</br>
 </br>
 </br>
 </br>
