@@ -10,7 +10,7 @@
 I'm a data scientist.🚀</br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br></br>
 I am currently an undergraduate student in CDS Lab</br>
-[Google](http://www.google.co.kr "구글")</br>
+[Google](https://www.google.com)</br>
 [Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee) "CDS Lab")
 </br>
 </br>
