@@ -8,7 +8,7 @@
 </br>
 👍 Hi everyone! I'm a data scientist.🚀</br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br>
-[Computation, Data, and Society Lab]((https://sites.google.com/korea.ac.kr/jaiwoolee), "CDS link")</br>
+https://sites.google.com/korea.ac.kr/jaiwoolee</br>
 </br>
 </br>
 </br>
