@@ -6,7 +6,7 @@
 </br>
 </br>
 </br>
-# Hi everyone! 
+# 👍 Hi everyone! </br>
 I'm a data scientist.🚀</br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br></br>
 I am currently an undergraduate student in CDS Lab</br>
