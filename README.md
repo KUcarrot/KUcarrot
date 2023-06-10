@@ -8,7 +8,6 @@
 </br>
 </br>
 #### 👍 Hi everyone! </br>
-I'm a data scientist.🚀</br>
 I am interested in **imbalanced data** and **computer vision.** 💌</br>
 </br>
 </br>
