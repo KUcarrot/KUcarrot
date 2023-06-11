@@ -1,6 +1,6 @@
 ## Donggeun Kim
 ![](https://komarev.com/ghpvc/?username=KUcarrot&color=dc143c)
-<a href="https://www.notion.so/kucarrot/About-me-369838db74794ef1bf596a34ffb09f73">
+<a href="https://kucarrot.notion.site/kucarrot/About-me-369838db74794ef1bf596a34ffb09f73">
 <img src="https://img.shields.io/badge/blog-A23EF3?style=flat-square&logo=instacart&logoColor=white"/> </a> <a href="https://github.com/KUcarrot">
 <img src="https://img.shields.io/badge/jikksun@korea.ac.kr-FB1911?style=flat-square&logo=monster&logoColor=white"/>
 </br>
