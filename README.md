@@ -6,7 +6,8 @@
 </br>
 ### 👍 Hi everyone! </br>
 I am interested in **imbalanced data** and **data science.** 💌</br></br>
-I am currently an **undergraduate student** in CDS Lab</br>
+Currently pursuing a Master's degree at Korea University's CDS Lab in sejong</br>
+
 [Computation, Data, and Society Lab](https://sites.google.com/korea.ac.kr/jaiwoolee)
 </br>
 </br>
