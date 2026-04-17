@@ -32,4 +32,18 @@ C / C++ · Java · Django · SPSS
 
 ---
 
+### Publications
+
+- **Predicting Absenteeism at Workplace Using Machine Learning and Network Analysis** (2025)  
+  **Donggeun Kim**, Jai Woo Lee*  
+  *SAGE Open*  
+  [[Paper]](https://journals.sagepub.com/doi/10.1177/21582440251336019)
+
+- **A Big Data-Driven Business Data Analysis System: Applications of Artificial Intelligence Techniques in Problem Solving** (2023)  
+  **Donggeun Kim**, Sangjin Kim, Juyong Ko, Jai Woo Lee*  
+  *The Journal of Bigdata (KCI)*  
+  [[Paper]](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002980342)
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUcarrot&show_icons=true&theme=default)
