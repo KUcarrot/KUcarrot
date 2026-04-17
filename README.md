@@ -25,10 +25,10 @@ C / C++ · Java · Django · SPSS
 
 ### Projects
 
-| 프로젝트 | 설명 |
+| Project  | Description  |
 |---|---|
-| [2025 SCPC AI Challenge](https://github.com/KUcarrot/2025-Samsung-Collegiate-Programming-Challenge-AI) | InstructBLIP 기반 VQA, Private 12위 (Accuracy 0.7819) |
-<!-- | [DAS Platform](레포링크) | Shiny for Python 기반 No-Code 데이터 분석 파이프라인 | -->
+| [2025 SCPC AI Challenge](https://github.com/KUcarrot/2025-Samsung-Collegiate-Programming-Challenge-AI) | InstructBLIP-based VQA pipeline — 3rd Prize, Private 12th (Accuracy: 0.7819) |
+<!-- | [DAS Platform](레포링크) | No-code data analysis pipeline built with Shiny for Python | -->
 
 ---
 
