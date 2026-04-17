@@ -1,6 +1,6 @@
 ## Donggeun Kim
 ![](https://komarev.com/ghpvc/?username=KUcarrot&color=dc143c)
-[![Blog](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](링크)
+[![Blog](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/kucarrot/About-me-369838db74794ef1bf596a34ffb09f73)
 [![Email](https://img.shields.io/badge/jikksun@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jikksun@korea.ac.kr)
 
 ---
